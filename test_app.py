@@ -6,4 +6,4 @@ def test_adunare():
 
 
 def test_scadere():
-    assert scadere(5, 2) == 3 #testare pornire automata jenkins
+    assert scadere(5, 2) == 3 #testare pornire automata jenkins fsdvsvsdvsdd
