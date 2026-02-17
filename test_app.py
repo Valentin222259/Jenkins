@@ -6,4 +6,4 @@ def test_adunare():
 
 
 def test_scadere():
-    assert scadere(5, 2) == 3 #testare pornire automata jenkins fsdvsvsdvsdd
+    assert scadere(5, 2) == 3  # Comentariu corect cu doua spatii inainte
