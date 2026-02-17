@@ -6,4 +6,5 @@ def test_adunare():
 
 
 def test_scadere():
-    assert scadere(5, 2) == 3  # Comentariu corect cu doua spatii inainte sdfgersgwergergg
+    # Comentariul este acum deasupra pentru a evita linia prea lunga
+    assert scadere(5, 2) == 3
